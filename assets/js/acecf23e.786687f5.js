@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwanderingtail=self.webpackChunkwanderingtail||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/wanderingtail/blog","blogTitle":"Blog","authorsListPath":"/wanderingtail/blog/authors"}')}}]);
