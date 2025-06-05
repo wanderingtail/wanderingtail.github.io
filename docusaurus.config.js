@@ -23,14 +23,14 @@ const config = {
   url: 'https://wanderingtail.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/wanderingtail/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'wanderingtail', // Usually your GitHub org/user name.
   projectName: 'wanderingtail.github.io', // Usually your repo name.
   trailingSlash: false,
-
+  deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
