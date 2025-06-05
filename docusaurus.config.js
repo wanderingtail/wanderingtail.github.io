@@ -24,7 +24,7 @@ const config = {
   organizationName: 'wanderingtail', // Usually your GitHub org/user name.
   projectName: 'wanderingtail.github.io', // Usually your repo name.
   trailingSlash: false,
-  
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -82,18 +82,18 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
+          /*{
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
-          },
+          },*/
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       footer: {
         style: 'dark',
-        links: [
+        /*links: [
           {
             title: 'Docs',
             items: [
@@ -133,7 +133,7 @@ const config = {
               },
             ],
           },
-        ],
+        ],*/
         copyright: `Copyright © ${new Date().getFullYear()} The Wandering Tail. Built with Docusaurus.`,
       },
       prism: {
