@@ -60,3 +60,5 @@ Além disso, o ChatGPT também ajuda na criação de roteiros e ideias, mas eu n
 ## That's all folks!
 
 Irei descrever em posts futuros etapas mais detalhadas explicando os processos internos de se lançar um jogo. Se curtiu o texto, comente abaixo. Deixe sua opinião.
+
+TESTE
