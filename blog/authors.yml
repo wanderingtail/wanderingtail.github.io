@@ -1,11 +1,11 @@
 kelvin:
-  name: Kelvin Rosa
+  name: Kelvin Rosa (frost)
   title: Senior Game Developer, Wandering Tail, Lightshaft. 
   url: https://www.linkedin.com/in/kelvin-rosa-0012a041/
   image_url: https://avatars.githubusercontent.com/u/5130872?s=96&v=4
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: '/frost-articles'
   socials:
     x: lightshaftdev
     linkedin: kelvin-rosa-0012a041
