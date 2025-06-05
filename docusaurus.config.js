@@ -14,7 +14,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://wanderingtail.github.io',
+  url: 'https://wanderingtail.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -24,7 +24,7 @@ const config = {
   organizationName: 'wanderingtail', // Usually your GitHub org/user name.
   projectName: 'wanderingtail.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: "gh-pages",
+  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
