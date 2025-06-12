@@ -1,6 +1,7 @@
 ---
 slug: Scream-jam-2014
 title: Minha segunda gamejam Scream jam 2014
+unlisted: true
 authors: kelvin
 tags: [gamejam]
 ---

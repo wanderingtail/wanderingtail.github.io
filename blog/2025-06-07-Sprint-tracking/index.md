@@ -1,6 +1,7 @@
 ---
 slug: Sprint-tracking
-title: Facilitando meu trabalho e criando um programa para meus colegas de trabalho
+title: Os beneficios de ser programador
+unlisted: true
 authors: kelvin
 tags: [gamejam]
 ---
