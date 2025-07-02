@@ -1,6 +1,6 @@
 ---
-slug: Scream-jam-2014
-title: Minha segunda gamejam Scream jam 2014
+slug: Scream-jam-2024
+title: Minha segunda gamejam Scream jam 2024
 authors: kelvin
 tags: [gamejam]
 ---
